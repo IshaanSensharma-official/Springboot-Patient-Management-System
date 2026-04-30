@@ -96,5 +96,4 @@ The Auth Service automatically seeds a test user into the database:
    ```
    *This will save the patient, call the Billing Service via gRPC, and send a message to Kafka for the Analytics Service.*
 
-## Acknowledgements
-Original course material and architecture by Chris Blakely / Code Jackal.
+
