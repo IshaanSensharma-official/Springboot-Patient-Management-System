@@ -3,6 +3,7 @@
 A complete microservices-based patient management system built with Spring Boot, Apache Kafka, gRPC, and PostgreSQL.
 
 This project demonstrates a robust, event-driven architecture using multiple interconnected services.
+This project for now is in its development phase, the final output will be running locally on 4000 port. As of now, deployment is a future prospect
 
 ## Architecture & Services
 
